@@ -1,8 +1,8 @@
 {
-    "versionCode":  1,
-    "versionName":  "1.0.0",
-    "notes":  "Primeira versao: catalogo de filmes, series, doramas, animes e TV ao vivo.",
+    "versionCode":  2,
+    "versionName":  "1.1.0",
+    "notes":  "Agrupa titulos repetidos entre fontes, nova home com fileiras por categoria e tela Explorar com filtros, telas de Historico/Tema/Novidades/Sugestoes e bugs/Diagnostico de fontes, e corrige player com tela preta e controles duplicados.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.0.0/zenith-1.0.0.apk"
+                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.1.0/zenith-1.1.0.apk"
             }
 }
