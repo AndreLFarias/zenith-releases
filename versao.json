@@ -1,8 +1,8 @@
 {
-    "versionCode":  3,
-    "versionName":  "1.1.1",
-    "notes":  "Remove por enquanto a aba de TV ao vivo (servico parece descontinuado nessa regiao).",
+    "versionCode":  4,
+    "versionName":  "1.1.2",
+    "notes":  "Corrige titulos duplicados/errados do Marinho (ex.: series marcadas como filme) e o player principal quebrado dessa fonte (agora usa o servidor alternativo que funciona).",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.1.1/zenith-1.1.1.apk"
+                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.1.2/zenith-1.1.2.apk"
             }
 }
