@@ -1,8 +1,8 @@
 {
-  "versionCode": 0,
-  "versionName": "0.0.0",
-  "notes": "",
-  "apk": {
-    "geral": ""
-  }
+    "versionCode":  1,
+    "versionName":  "1.0.0",
+    "notes":  "Primeira versao: catalogo de filmes, series, doramas, animes e TV ao vivo.",
+    "apk":  {
+                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.0.0/zenith-1.0.0.apk"
+            }
 }
