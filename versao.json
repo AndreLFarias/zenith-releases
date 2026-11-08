@@ -1,8 +1,8 @@
 {
-    "versionCode":  4,
-    "versionName":  "1.1.2",
-    "notes":  "Corrige titulos duplicados/errados do Marinho (ex.: series marcadas como filme) e o player principal quebrado dessa fonte (agora usa o servidor alternativo que funciona).",
+    "versionCode":  5,
+    "versionName":  "1.1.3",
+    "notes":  "Corrige a escolha do servidor de video do Marinho: antes travava num indice fixo que nem sempre funciona, agora escolhe por disponibilidade real.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.1.2/zenith-1.1.2.apk"
+                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.1.3/zenith-1.1.3.apk"
             }
 }
