@@ -1,8 +1,8 @@
 {
-    "versionCode":  7,
-    "versionName":  "1.2.0",
-    "notes":  "Selo e escolha de dublado/legendado antes de assistir (Marinho); corrige escolha de servidor que descartava essa opcao a toa em varios titulos",
+    "versionCode":  8,
+    "versionName":  "1.2.1",
+    "notes":  "Foco visivel no D-pad (cards/botoes/chips), nomes de titulo que ficavam cortados na Inicio e botoes com melhor contraste na TV",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.2.0/zenith-1.2.0.apk"
+                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.2.1/zenith-1.2.1.apk"
             }
 }
