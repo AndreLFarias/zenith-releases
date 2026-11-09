@@ -1,8 +1,8 @@
 {
-    "versionCode":  6,
-    "versionName":  "1.1.4",
-    "notes":  "Bloqueia anuncio que mostrava golpe pedindo numero de celular durante o player (Marinho)",
+    "versionCode":  7,
+    "versionName":  "1.2.0",
+    "notes":  "Selo e escolha de dublado/legendado antes de assistir (Marinho); corrige escolha de servidor que descartava essa opcao a toa em varios titulos",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.1.4/zenith-1.1.4.apk"
+                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.2.0/zenith-1.2.0.apk"
             }
 }
