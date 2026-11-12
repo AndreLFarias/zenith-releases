@@ -1,8 +1,8 @@
 {
-    "versionCode":  13,
-    "versionName":  "1.5.0",
-    "notes":  "Ao Vivo ganha os canais abertos: TV Brasil, Canal Gov, Canal Educacao, TV Camara, TV Cultura, Canal Rural, CNN Brasil, Record News, SBT News, Band, Rede CNT e TV Jornal",
+    "versionCode":  14,
+    "versionName":  "1.5.1",
+    "notes":  "Corrige o seletor de dublado/legendado: agora o controle remoto escolhe (primeira opcao ja destacada). Gaveta de episodios e janelas de atualizacao/historico tambem abrem com foco",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.5.0/zenith-1.5.0.apk"
+                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.5.1/zenith-1.5.1.apk"
             }
 }
