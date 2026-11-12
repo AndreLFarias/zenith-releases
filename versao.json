@@ -1,8 +1,8 @@
 {
-    "versionCode":  8,
-    "versionName":  "1.2.1",
-    "notes":  "Foco visivel no D-pad (cards/botoes/chips), nomes de titulo que ficavam cortados na Inicio e botoes com melhor contraste na TV",
+    "versionCode":  9,
+    "versionName":  "1.2.2",
+    "notes":  "TV ao vivo volta a funcionar (corrige o caminho do stream e repassa o token ao player)",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.2.1/zenith-1.2.1.apk"
+                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.2.2/zenith-1.2.2.apk"
             }
 }
