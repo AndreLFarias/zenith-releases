@@ -1,8 +1,8 @@
 {
-    "versionCode":  9,
-    "versionName":  "1.2.2",
-    "notes":  "TV ao vivo volta a funcionar (corrige o caminho do stream e repassa o token ao player)",
+    "versionCode":  10,
+    "versionName":  "1.3.0",
+    "notes":  "Modo TV (menu lateral, textos maiores, foco visivel), player nativo com controle remoto, aba Ao Vivo de volta e nomes nao cortados nas grades",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.2.2/zenith-1.2.2.apk"
+                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.3.0/zenith-1.3.0.apk"
             }
 }
