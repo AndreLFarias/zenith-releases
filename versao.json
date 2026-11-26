@@ -1,8 +1,8 @@
 {
-    "versionCode":  16,
-    "versionName":  "1.5.3",
-    "notes":  "Mais filmes tocam direto no player da TV: cerca de 40% do catalogo tinha so um link que o servidor descartava por falta de um cabecalho, e agora ele passa a funcionar.",
+    "versionCode":  17,
+    "versionName":  "1.6.0",
+    "notes":  "Filmes dublados de uma das fontes agora tocam direto no player da TV, com controle remoto e sem anuncios, em vez de abrir a pagina do site. Mais filmes de outra fonte tambem passam a tocar direto.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.5.3/zenith-1.5.3.apk"
+                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.6.0/zenith-1.6.0.apk"
             }
 }
