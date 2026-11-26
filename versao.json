@@ -1,8 +1,8 @@
 {
-    "versionCode":  15,
-    "versionName":  "1.5.2",
-    "notes":  "Quando o filme nao toca direto, o app agora avisa o motivo na tela (servidor sem resposta, titulo sem link direto, chave recusada) em vez de deixar uma pagina que o controle remoto nao opera. Diagnostico ganhou o estado do servidor. O servidor passa a ser mantido ativo automaticamente.",
+    "versionCode":  16,
+    "versionName":  "1.5.3",
+    "notes":  "Mais filmes tocam direto no player da TV: cerca de 40% do catalogo tinha so um link que o servidor descartava por falta de um cabecalho, e agora ele passa a funcionar.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.5.2/zenith-1.5.2.apk"
+                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.5.3/zenith-1.5.3.apk"
             }
 }
