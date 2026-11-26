@@ -1,8 +1,8 @@
 {
-    "versionCode":  14,
-    "versionName":  "1.5.1",
-    "notes":  "Corrige o seletor de dublado/legendado: agora o controle remoto escolhe (primeira opcao ja destacada). Gaveta de episodios e janelas de atualizacao/historico tambem abrem com foco",
+    "versionCode":  15,
+    "versionName":  "1.5.2",
+    "notes":  "Quando o filme nao toca direto, o app agora avisa o motivo na tela (servidor sem resposta, titulo sem link direto, chave recusada) em vez de deixar uma pagina que o controle remoto nao opera. Diagnostico ganhou o estado do servidor. O servidor passa a ser mantido ativo automaticamente.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.5.1/zenith-1.5.1.apk"
+                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.5.2/zenith-1.5.2.apk"
             }
 }
