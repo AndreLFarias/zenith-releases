@@ -1,8 +1,8 @@
 {
-    "versionCode":  19,
-    "versionName":  "1.8.0",
-    "notes":  "Animes de duas fontes (incluindo uma com varios titulos dublados) agora tocam direto no player da TV, com controle remoto e sem anuncios, com avanco e retrocesso de tempo.",
+    "versionCode":  20,
+    "versionName":  "1.9.0",
+    "notes":  "A aba Ao Vivo ganhou categorias (Esportes, Noticias, Filmes, Series, Anime, Infantil e outras) com a quantidade de canais de cada uma, para achar os canais de esporte e infantis sem rolar uma lista de 200. No controle remoto o foco comeca nas categorias.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.8.0/zenith-1.8.0.apk"
+                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.9.0/zenith-1.9.0.apk"
             }
 }
