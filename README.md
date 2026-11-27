@@ -4,13 +4,15 @@ Filmes, séries, animes, doramas e TV ao vivo — para Fire TV, Android TV, TV B
 
 ## Baixar
 
-**[⬇ zenith.apk — sempre a versão mais nova](https://github.com/AndreLFarias/zenith-releases/releases/latest/download/zenith.apk)**
+**[⬇ zenith.apk — sempre a versão mais nova](https://is.gd/zenithapk)**
 
-Endereço do arquivo (para digitar na TV):
+Endereço curto do arquivo (para digitar na TV):
 
 ```
-github.com/AndreLFarias/zenith-releases/releases/latest/download/zenith.apk
+is.gd/zenithapk
 ```
+
+(Endereço completo, caso prefira: `github.com/AndreLFarias/zenith-releases/releases/latest/download/zenith.apk`.)
 
 O app não está na loja, então a instalação é pelo arquivo APK. Leva uns dois minutos.
 
