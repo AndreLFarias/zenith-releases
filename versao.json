@@ -1,8 +1,8 @@
 {
-    "versionCode":  17,
-    "versionName":  "1.6.0",
-    "notes":  "Filmes dublados de uma das fontes agora tocam direto no player da TV, com controle remoto e sem anuncios, em vez de abrir a pagina do site. Mais filmes de outra fonte tambem passam a tocar direto.",
+    "versionCode":  18,
+    "versionName":  "1.7.0",
+    "notes":  "Filmes e series de mais duas fontes agora tocam direto no player da TV, com controle remoto, sem anuncios e com o audio em portugues escolhido automaticamente. Titulos sem audio em portugues abrem a pagina do site com um aviso.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.6.0/zenith-1.6.0.apk"
+                "geral":  "https://github.com/AndreLFarias/zenith-releases/releases/download/v1.7.0/zenith-1.7.0.apk"
             }
 }
